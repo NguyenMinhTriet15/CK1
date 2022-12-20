@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/code/CK/app/src/main/res/layout/activity_homepage.xml" value="0.19882246376811594" />
+        <entry key="..\:/code/CK/app/src/main/res/layout/activity_info1.xml" value="0.19882246376811594" />
+        <entry key="..\:/code/CK/app/src/main/res/layout/activity_main.xml" value="0.19882246376811594" />
+        <entry key="..\:/code/CK/app/src/main/res/layout/activity_mancity.xml" value="0.19882246376811594" />
+        <entry key="..\:/code/CK/app/src/main/res/layout/activity_manunited.xml" value="0.4" />
+        <entry key="..\:/code/CK/app/src/main/res/layout/activity_signupactv.xml" value="0.19882246376811594" />
+        <entry key="..\:/code/CK/app/src/main/res/layout/actvitylogin.xml" value="0.19882246376811594" />
+        <entry key="..\:/code/GK/app/src/main/res/drawable-v24/duongvien_goctron.xml" value="0.143" />
+        <entry key="..\:/code/GK/app/src/main/res/drawable-v24/waves.xml" value="0.143" />
+        <entry key="..\:/code/GK/app/src/main/res/drawable/ic_wave__1_.xml" value="0.152" />
+        <entry key="..\:/code/GK/app/src/main/res/layout/activity_homepage.xml" value="0.2" />
+        <entry key="..\:/code/GK/app/src/main/res/layout/activity_info1.xml" value="0.2" />
+        <entry key="..\:/code/GK/app/src/main/res/layout/activity_main.xml" value="0.17708333333333334" />
+        <entry key="..\:/code/GK/app/src/main/res/layout/activity_main2.xml" value="0.19882246376811594" />
+        <entry key="..\:/code/GK/app/src/main/res/layout/activity_main3.xml" value="0.19882246376811594" />
+        <entry key="..\:/code/GK/app/src/main/res/layout/activity_mancity.xml" value="0.19882246376811594" />
+        <entry key="..\:/code/GK/app/src/main/res/layout/activity_manunited.xml" value="0.19882246376811594" />
+        <entry key="..\:/code/GK/app/src/main/res/layout/activity_profile.xml" value="0.17708333333333334" />
+        <entry key="..\:/code/GK/app/src/main/res/layout/activity_realmadrid.xml" value="0.19882246376811594" />
+        <entry key="..\:/code/GK/app/src/main/res/layout/activity_songlist.xml" value="0.19882246376811594" />
+        <entry key="..\:/code/GK/app/src/main/res/layout/actvitylogin.xml" value="0.19882246376811594" />
+        <entry key="..\:/code/GK/app/src/main/res/layout/dong.xml" value="0.19882246376811594" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
